@@ -1,0 +1,3 @@
+LoC - Version 0.0.1 - jan 29th 2017 by Nick Hilhorst.
+
+This plugin is for using Library of Congress as a metadata source.
